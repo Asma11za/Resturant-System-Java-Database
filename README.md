@@ -1,6 +1,7 @@
 <h1> Black Plate: Resturant Managment System using Java </h1>
-![blackplate](https://github.com![img](https://github.com/user-attachments/assets/f8857601-d9ff-4fbe-8fdd-f2f55f2ce940)
-/user-attachments/assets/61b76a6e-d60e-4dc1-bda3-cc5a32a8caa3)
+![img]()
+
+<img width="468" alt="Picture2" src="https://github.com/user-attachments/assets/3d2ef6c9-9aed-42c0-8d1e-0f35134fe680"> 
 
 
 <h2> Technologies used:- </h2>
