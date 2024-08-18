@@ -1,12 +1,23 @@
-<h1> Black Plate: Resturant Managment System using Java </h1>
+<h1> Black Plate: Resturant Managment System using Maven Java </h1>
 
 <img width="468" alt="Picture2" src="https://github.com/user-attachments/assets/31e73cdd-dd44-498a-bb92-486e502745be">  
 
 
 <h2> Technologies used:- </h2>
-Database:
-MySql!
 
+- Java
+- Maven
+- JUnit (for testing)
+
+<h2> Prerequisites </h2>
+
+- Java Development Kit (JDK)
+- Maven
+
+<h2> Database: </h2>
+- MySql
+
+git init /Users/asma/NetBeansProjects/JavaApplication2 UPDATED
 
 
 <h2> Database Schema </h2>
