@@ -4,11 +4,8 @@
 
 
 <h2> Technologies used:- </h2>
-
-
-<h1> Database:
+Database:
 MySql!
-</h1>
 
 
 
