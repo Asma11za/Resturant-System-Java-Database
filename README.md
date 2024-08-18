@@ -1,0 +1,14 @@
+<h1> Resturant Managment System using Java </h1>
+
+
+
+
+<h2> Database Schema </h2>
+
+
+ 
+
+
+
+<img width="468" alt="Picture2" src="https://github.com/user-attachments/assets/3d2ef6c9-9aed-42c0-8d1e-0f35134fe680">
+<img width="468" alt="Picture3" src="https://github.com/user-attachments/assets/9ebc7997-7673-42eb-9141-d3669a6790b2">
