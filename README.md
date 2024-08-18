@@ -13,9 +13,11 @@
 - MySql
 
 <h2> Screenshots of the project </h2>
-
-<img width="922" alt="Screen Shot 2024-08-19 at 1 53 22 AM" src="https://github.com/user-attachments/assets/587ec9d4-050f-4687-86ab-3f217948c09f">
 <img width="922" alt="Screen Shot 2024-08-19 at 1 52 45 AM" src="https://github.com/user-attachments/assets/5710f1e5-2de4-4c66-83e5-042630acbe26">
+
+<h3> Logged in as an Admin </h3>
+<img width="922" alt="Screen Shot 2024-08-19 at 1 53 22 AM" src="https://github.com/user-attachments/assets/587ec9d4-050f-4687-86ab-3f217948c09f">
+
 
 <img width="1235" alt="Screen Shot 2024-08-19 at 1 56 06 AM" src="https://github.com/user-attachments/assets/8be21f86-1e68-4605-8606-c14e63853696">
 <img width="1235" alt="Screen Shot 2024-08-19 at 1 55 38 AM" src="https://github.com/user-attachments/assets/bdf9d36f-739e-49d7-b9ce-5655d3943a0a">
