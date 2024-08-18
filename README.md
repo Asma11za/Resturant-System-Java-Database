@@ -3,16 +3,11 @@
 <img width="468" alt="Picture2" src="https://github.com/user-attachments/assets/31e73cdd-dd44-498a-bb92-486e502745be">  
 
 
-<h2> Technologies used:- </h2>
-
-- Java
-- Maven
-- JUnit (for testing)
-
-<h2> Prerequisites </h2>
+<h2> Tools used:- </h2>
 
 - Java Development Kit (JDK)
 - Maven
+- JUnit (for testing)
 
 <h2> Database: </h2>
 - MySql
