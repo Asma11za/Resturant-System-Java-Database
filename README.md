@@ -1,6 +1,23 @@
-<h1> Resturant Managment System using Java </h1>
+<h1> Black Plate: Resturant Managment System using Java </h1>
+![PHOTO-2022-04-30-03-15-11](https://github.com/user-attachments/assets/33e85d0b-243d-4dbf-a1d1-340ccc071a44)
 
 
+<h2> Technologies used:- </h2>
+
+Front-End Development:
+HTML
+CSS
+Javascript
+BootStrap
+
+Back-End Development:
+Java [JDK 17]
+JDBC
+Servlet
+JSP
+
+Database:
+MySql
 
 
 <h2> Database Schema </h2>
