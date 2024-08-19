@@ -3,6 +3,10 @@
 <img width="468" alt="Picture2" src="https://github.com/user-attachments/assets/31e73cdd-dd44-498a-bb92-486e502745be">  
 
 
+<h2> About </h2> 
+
+The profession of managing a restaurant. It includes the principles of OOP and using Java function of planning, organizing, staffing, directing, developing an attitude in food and beverage control systems, and efficiently and effectively planning menus at profitable prices, taking into consideration constraints and others.
+
 <h2> Tools used: </h2>
 
 - Java Development Kit (JDK)
