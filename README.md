@@ -13,7 +13,7 @@
 
 - MySql
 
-<h2>  Functionality </h2>
+<h2>  Functionality: </h2>
 
 - Increases operational efficiency.
 
@@ -24,15 +24,15 @@
 - Simple to learn and easy to use.
 
 
-<h2> Clarification of important information </h2>
+<h2> Clarification of important information: </h2>
 
 The system is between the customer and waiter in the restaurant and it's not a virtual system. The waiter takes customer orders. Our system will facilitate the process of taking orders.
 
 
-<h2> Application's GUI </h2>
+<h2> Application's GUI: </h2>
 <img width="922" alt="Screen Shot 2024-08-19 at 1 52 45 AM" src="https://github.com/user-attachments/assets/5710f1e5-2de4-4c66-83e5-042630acbe26">
 <br>
-<h3> 1. Logged in as an Admin: (Username: admin, Password:admin) </h3>
+<h3> 1. Logged in as an Admin: (Username: admin, Password: admin) </h3>
 <img width="922" alt="Screen Shot 2024-08-19 at 1 53 22 AM" src="https://github.com/user-attachments/assets/587ec9d4-050f-4687-86ab-3f217948c09f">
 <br>
 <h3> Update Prices choice: </h3>
@@ -47,7 +47,7 @@ The system is between the customer and waiter in the restaurant and it's not a v
 <h3> Menu choice: </h3>
 <img width="1243" alt="Screen Shot 2024-08-19 at 1 53 57 AM" src="https://github.com/user-attachments/assets/6671a0e2-da0e-4d92-9703-7d0925795261">
 <br>
-<h3> Save Receipt </h3>
+<h3> Save Receipt: </h3>
 <img width="1235" alt="Screen Shot 2024-08-19 at 1 56 06 AM" src="https://github.com/user-attachments/assets/8be21f86-1e68-4605-8606-c14e63853696">
 <br>
 <h3> All Receipt that has been saved, will be shown in the JavaApplication2 UPDATED file: </h3>
@@ -57,11 +57,11 @@ The system is between the customer and waiter in the restaurant and it's not a v
 <img width="1235" alt="Screen Shot 2024-08-19 at 1 55 38 AM" src="https://github.com/user-attachments/assets/bdf9d36f-739e-49d7-b9ce-5655d3943a0a">
 
 
-<h2> Database Schema </h2>
+<h2> Database Schema: </h2>
 
 
 <img width="468" alt="Picture2" src="https://github.com/user-attachments/assets/3d2ef6c9-9aed-42c0-8d1e-0f35134fe680">
 <img width="468" alt="Picture3" src="https://github.com/user-attachments/assets/9ebc7997-7673-42eb-9141-d3669a6790b2">
  
- <h2> Classes UML </h2>
+ <h2> Classes UML: </h2>
  <img width="468" alt="Picture4" src="https://github.com/user-attachments/assets/829b58be-f702-4479-9cd4-cf9be6285803">
