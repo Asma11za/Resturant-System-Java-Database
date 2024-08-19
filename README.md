@@ -10,9 +10,11 @@
 - JUnit (for testing)
 
 <h2> Database: </h2>
+
 - MySql
 
 <h2>  Functionality </h2>
+
 - Increases operational efficiency.
 
 - Helps the restaurant manager to manage the restaurant more effectively and efficiently by computerizing Meal Ordering, Cart, and Restaurant Management Accounting.
