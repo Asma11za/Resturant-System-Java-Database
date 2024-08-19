@@ -28,15 +28,16 @@
 <h3> 2. Logged in as a Cashier: (Any username & password) </h3>
 <img width="925" alt="Screen Shot 2024-08-19 at 3 10 27 AM" src="https://github.com/user-attachments/assets/6984412b-8897-488e-a898-0c0fbdbf01ef">
 
-
+<h3> Menu choice: </h3>
 <img width="1235" alt="Screen Shot 2024-08-19 at 1 56 06 AM" src="https://github.com/user-attachments/assets/8be21f86-1e68-4605-8606-c14e63853696">
-<img width="1235" alt="Screen Shot 2024-08-19 at 1 55 38 AM" src="https://github.com/user-attachments/assets/bdf9d36f-739e-49d7-b9ce-5655d3943a0a">
+
 <img width="1243" alt="Screen Shot 2024-08-19 at 1 53 57 AM" src="https://github.com/user-attachments/assets/6671a0e2-da0e-4d92-9703-7d0925795261">
 
 <h3> All Recipt that has been saved, will be shown in the JavaApplication2 UPDATED file: </h3>
-
 <img width="391" alt="Screen Shot 2024-08-19 at 3 09 02 AM" src="https://github.com/user-attachments/assets/22b8a887-f432-4cc2-95df-cd15ceeb0767">
 
+<h3> About us choice: </h3>
+<img width="1235" alt="Screen Shot 2024-08-19 at 1 55 38 AM" src="https://github.com/user-attachments/assets/bdf9d36f-739e-49d7-b9ce-5655d3943a0a">
 
 
 <h2> Database Schema </h2>
